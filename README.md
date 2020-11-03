@@ -1,12 +1,18 @@
 ### Hi there 👋
-🔭 I’m currently working on a project in react native.
+🔭 Electronics and computer engineer proficient in react native and python, good in English language with proven communication. Trying to secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.
+
+💬 Talk about problem solving, data structures and competitive programming. I love those topics. 
+
+📫 How to reach me: https://www.linkedin.com/in/rupan-c-b7b4b01ba/
+
+
 
 <!--
 **chaulagainrupan1/chaulagainrupan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
+-🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
