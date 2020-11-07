@@ -3,7 +3,6 @@
 
 💬 Talk about problem solving, data structures and competitive programming. I love those topics. 
 
-📫 How to reach me: https://www.linkedin.com/in/rupan-c-b7b4b01ba/
 
 
 
