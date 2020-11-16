@@ -3,7 +3,6 @@
 
 💬 Talk about problem solving, data structures and competitive programming. I love those topics. 
 
-🌱 I’m currently learning react for an application delegation tracker which trackes total delegation in a pool on daily basis.
 
 
 
