@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 Electronics and computer engineer proficient in react native and python, good in English language with proven communication. Trying to secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.
+🔭 Electronics and computer engineer proficient in react native and python, good in English language with proven communication.
 
 💬 Talk about problem solving, data structures and competitive programming. I love those topics. 
 
